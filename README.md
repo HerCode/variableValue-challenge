@@ -1,4 +1,4 @@
-# variableValue-challenge
+# Variable Value Challenge
 
 In this assignment, you will need to work through each of the steps and figure out what the value of the variable equals each step of the way. Once you have worked out what the value is at each step, send an email to your instructor letting us know what you think the answers are.
 
